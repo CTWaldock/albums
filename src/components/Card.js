@@ -13,7 +13,7 @@ const styles = {
   containerStyle: {
     borderWidth: 3,
     borderRadius: 2,
-    borderColor: '#f96161',
+    borderColor: '#d0b783',
     borderBottomWidth: 0,
     shadowColor: '#888',
     shadowOffset: { width: 2, height: 2},
